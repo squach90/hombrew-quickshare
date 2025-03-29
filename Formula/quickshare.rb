@@ -1,4 +1,4 @@
-class QuickShare < Formula
+class Quickshare < Formula
   desc "A CLI to quickly share files and link"
   homepage "https://github.com/squach90/homebrew-quickshare"
   url "https://github.com/squach90/homebrew-quickshare/archive/refs/tags/v1.0.1.tar.gz"
