@@ -1,9 +1,9 @@
 class Quickshare < Formula
   desc "A CLI to quickly share files and link"
   homepage "https://github.com/squach90/homebrew-quickshare"
-  url "https://github.com/squach90/homebrew-quickshare/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "5eba714df46d2f11d13628a75af22c764860034910ac55d41049a3cb0c0ed39c"
-  version "1.0.1"
+  url "https://github.com/squach90/homebrew-quickshare/archive/refs/tags/v1.0.2.tar.gz"
+  sha256 "0bbe39b55a4cb3049cc66718db588b530e1bf0054c968313ac657f4530e65cfc"
+  version "1.0.2"
 
   depends_on "gum"
 
