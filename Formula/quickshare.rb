@@ -6,6 +6,7 @@ class Quickshare < Formula
   version "1.1.0"
 
   depends_on "gum"
+  depends_on "qrencode"
 
   def install
     bin.install "quickshare.sh" => "quickshare"
